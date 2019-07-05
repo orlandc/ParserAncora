@@ -1,4 +1,4 @@
-# Unparse Ancora Corpus
+# Parser Ancora Corpus
 
 ## English
 Parser ancora is a script in python, that convert Ancora Corpus xml format in format raw on txt file
