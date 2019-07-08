@@ -1,4 +1,4 @@
-# Parser Ancora Corpus
+# Parser Ancora Corpus CESS_CAST v3.0
 
 ## English
 Parser ancora is a script in python, that convert Ancora Corpus xml format in format raw on txt file
